@@ -1,16 +1,18 @@
-HR MANAGEMENT SYSTEM
+                              HR MANAGEMENT SYSTEM
 
 This HR system is designed to manage various HR functions efficiently. The system has two main roles: Admin and Employee. The Admin side is responsible for managing events, leave requests, employees, and payroll (the payroll functionality is under development). The Employee side allows employees to manage their history, request leaves, update their details, and check events.
 
-Features
+Features:
 
-Admin Side
+Admin Side:
+
 Create and Delete Event: Admins can create new events and delete existing ones.
 Accept or Reject Leave: Admins have the authority to accept or reject leave requests made by employees.
 Add and Delete Employee: Admins can add new employees to the system and delete existing ones.
 Add Payroll: This feature is under development and will allow admins to manage payroll for employees.
 
-Employee Side
+Employee Side:
+
 Add History: Employees can add personal history records.
 Add Leave Request: Employees can submit leave requests which are then reviewed by the admin.
 Update Details: Employees can update their personal details.
@@ -19,7 +21,7 @@ Check Events: Employees can view events created by the admin.
 Register an Admin Account
 Navigate to http://localhost:5173/adminRegister in your web browser. Here, you can register an admin account to access the administrative features of the application.
 
-Access the Admin Dashboard
+Access the Admin Dashboard:
 After registering the admin account, you can log in using the credentials you provided during registration. Once logged in, you will have access to the admin dashboard, where you can manage employees, training modules, and other administrative tasks.
 
 3. Create Employee Accounts
@@ -28,8 +30,6 @@ From the admin dashboard, you can create employee accounts by providing the nece
 4. Employee Login
 Employees can log in to the system using the credentials provided by the admin. They can access their profiles, view assigned training modules, mark modules as completed, and perform other tasks related to their training.
 
-Additional Information
-For any further assistance or troubleshooting, please refer to the documentation or contact the system administrator.
 
 Usage
 Admin Interface
