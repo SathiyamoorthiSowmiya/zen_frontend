@@ -18,8 +18,6 @@ Add Leave Request: Employees can submit leave requests which are then reviewed b
 Update Details: Employees can update their personal details.
 Check Events: Employees can view events created by the admin.
 
-Register an Admin Account
-Navigate to http://localhost:5173/adminRegister in your web browser. Here, you can register an admin account to access the administrative features of the application.
 
 Access the Admin Dashboard:
 After registering the admin account, you can log in using the credentials you provided during registration. Once logged in, you will have access to the admin dashboard, where you can manage employees, training modules, and other administrative tasks.
