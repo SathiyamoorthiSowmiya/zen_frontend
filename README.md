@@ -6,8 +6,6 @@ Live Demo ==>https://main--staffsphere.netlify.app/dashboard
 
 Features:
 
-you can visit through browser http://localhost:5173
-
 Admin Side:
 
 Create and Delete Event: Admins can create new events and delete existing ones.
